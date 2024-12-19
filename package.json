@@ -1,0 +1,14 @@
+{
+  "name": "com.appidea.minigames.alphabet_aracing",
+  "version": "0.1.4",
+  "displayName": "minigames.alphabet_aracing",
+  "description": "color match",
+  "dependencies": {
+    "com.unity.addressables": "1.21.21",
+    "com.unity.render-pipelines.universal": "14.0.10"
+  },
+  "unity": "2022.3",
+  "author": {
+    "name": "irakli"
+  }
+}
