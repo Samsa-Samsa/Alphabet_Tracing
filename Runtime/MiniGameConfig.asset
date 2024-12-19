@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: MiniGameConfig
   m_EditorClassIdentifier: 
   MiniGameName: Alphabet_Tracing
-  Version: 0.1.4
+  Version: 0.1.5
   Url: https://pub-2a6c63cc30034e7b9415d7c5b8568709.r2.dev
-  CustomRenderPipelineAsset: {fileID: 11400000, guid: 681886c5eb7344803b6206f758bf0b1c, type: 2}
+  CustomRenderPipelineAsset: {fileID: 11400000, guid: 54ab96f5900eaba4d9f289d673bf19f7, type: 2}
