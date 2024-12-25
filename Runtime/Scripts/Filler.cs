@@ -28,7 +28,7 @@ public class Filler : MonoBehaviour
     [SerializeField] SpriteRenderer spriteRenderer;
     [SerializeField] Collider2D spriteCol;
 
-    [SerializeField] float startThreshold = 0.25f;
+    [SerializeField] float startThreshold;
     [SerializeField] float endThreshold = 0.35f;
 
     [SerializeField] float zOffset=10;
